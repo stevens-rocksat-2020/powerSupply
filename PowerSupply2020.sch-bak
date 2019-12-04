@@ -1,0 +1,28 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LT1910ES8PBF:LT1910ES8PBF U?
+U 1 1 5DD61FB9
+P 4350 3250
+F 0 "U?" H 5650 3615 50  0000 C CNN
+F 1 "LT1910ES8PBF" H 5650 3524 50  0000 C CNN
+F 2 "SO-8_S" H 4350 3250 50  0001 L BNN
+F 3 "LT1910ES8#PBF" H 4650 3500 50  0001 L BNN
+F 4 "MOSFET Driver 0.065 Volt 1 Output Hi Side Non Input Volt 8-Pin SOIC N" H 4250 2650 50  0001 L BNN "Field8"
+	1    4350 3250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
