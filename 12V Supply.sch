@@ -69,7 +69,7 @@ U 1 1 5DF2F0D9
 P 3900 3650
 F 0 "R1" H 3968 3696 50  0000 L CNN
 F 1 "5.1 kΩ" H 3968 3605 50  0000 L CNN
-F 2 "" V 3940 3640 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 3940 3640 50  0001 C CNN
 F 3 "~" H 3900 3650 50  0001 C CNN
 	1    3900 3650
 	1    0    0    -1  
@@ -97,7 +97,7 @@ F 3 "~" H 3450 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 12V-Supply-rescue:LT1910ES8PBF-LT1910ES8PBF U1
+L 12V-Supply-rescue:LT1910ES8PBF-LT1910ES8PBF-12V-Supply-rescue U1
 U 1 1 5DD61FB9
 P 5450 3350
 F 0 "U1" H 5450 3750 50  0000 C CNN
@@ -126,7 +126,7 @@ $EndComp
 Wire Wire Line
 	3900 3800 3900 3900
 $Comp
-L PowerSupply2020-rescue:+5V-power #PWR0101
+L 12V-Supply-rescue:+5V-power-PowerSupply2020-rescue #PWR0101
 U 1 1 5DD65746
 P 3900 3900
 F 0 "#PWR0101" H 3900 3750 50  0001 C CNN

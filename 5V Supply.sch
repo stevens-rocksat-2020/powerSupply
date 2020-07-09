@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Local:PoluluD24V10F5 U1
+L 5V-Supply-rescue:PoluluD24V10F5-Local U1
 U 1 1 5DF4300F
 P 5350 2700
 F 0 "U1" H 5878 2751 50  0000 L CNN
